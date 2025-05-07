@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+# c
+bin/
+*.o
+*.a
+*.so
+*.out
